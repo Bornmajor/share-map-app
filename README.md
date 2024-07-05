@@ -7,6 +7,9 @@ Application that allows users to share their location using inbuilt google map.
 
 # Screenshots
 ## Map screen
+
+<img src="https://github.com/Bornmajor/share-map-app/assets/98744068/a51497b2-8026-4a8d-8a28-2b125ac58e53"  >
+<br><br>
 <img src="https://github.com/Bornmajor/share-map-app/assets/98744068/d577c135-ab16-4da6-bec9-f2df7cab9264"  width="200" >
 <img src="https://github.com/Bornmajor/share-map-app/assets/98744068/0e2aec65-1b75-4c2e-b7b3-54c62cc28ccd"  width="200" >
 <img src="https://github.com/Bornmajor/share-map-app/assets/98744068/c9336da2-3db6-41fb-9dde-8560683bd584"  width="200" >
